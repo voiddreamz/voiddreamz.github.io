@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 11df9618c3797d7d6af7                          #生成的clientID
   clientSecret: ecf479faf19c2d15b08ca0867d297b640edf8ba0    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: codesjobs.github.io    #仓库名称
+  owner: codesjobs    #github用户名
+  admin: codesjobs
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id: 89baf10715ee0221ac584b8f76b2c8df
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
