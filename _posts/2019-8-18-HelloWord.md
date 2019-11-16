@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello World
 subtitle:   博客正式成立
-date:       2019-17-16
+date:       2019-8-18
 author:     CodeSJobs
 header-img: img/post-bg-universe.jpg
 catalog: true
