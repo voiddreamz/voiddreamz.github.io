@@ -104,5 +104,8 @@ friends: [
     },{
         title: "另一个主题博客",
         href: "https://hmz1234.github.io"
+    },{
+        title: "John's Blog",
+        href: "https://litebyte.coding.me/"
     }
 ]
