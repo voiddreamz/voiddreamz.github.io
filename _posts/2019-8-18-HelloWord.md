@@ -4,7 +4,7 @@ title:      Hello World
 subtitle:   博客正式成立
 date:       2019-8-18
 author:     CodeSJobs
-header-img: img/post-bg-universe.jpg
+header-img: img/tag-bg-o.jpg
 catalog: true
 tags:
     - Blog
