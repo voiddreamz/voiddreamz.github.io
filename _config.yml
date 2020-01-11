@@ -108,9 +108,6 @@ friends: [
         title: "John's Blog",
         href: "https://litebyte.coding.me/"
     },{
-        title: "WordPress建设的博客",
-        href: "codesjobs.home.blog"
-    },{
         title: "大师传奇",
         href: "https://codesjobs.github.io/news"
     }
