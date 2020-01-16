@@ -23,7 +23,7 @@ function init() {
     ctx.scale(pixelRatio, pixelRatio);
 
     leon = new LeonSans({
-        text: 'The quick brown\nfox jumps over\nthe lazy dog',
+        text:'I'm CodeSJobs',
         color: ['#000000'],
         size: 80,
         weight: 200
@@ -47,6 +47,17 @@ function animate(t) {
 window.onload = () => {
     init();
 };
+
+let i, total = leon.drawing.length;
+for (i = 0; i < total; i++) {
+    TweenMax.fromTo(leon.drawing[i], 1.6, {
+        value: 0
+    }, {
+        delay: i * 0.05,
+        value: 1,
+        ease: Power4.easeOut
+    });
+}
 
 </script>
 </body>
