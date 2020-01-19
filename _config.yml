@@ -65,8 +65,8 @@ gitalk:
   clientID: 11df9618c3797d7d6af7                          #生成的clientID
   clientSecret: ecf479faf19c2d15b08ca0867d297b640edf8ba0    #生成的clientSecret
   repo: codesjobs.github.io    #仓库名称
-  owner: codedream    #github用户名
-  admin: codesdream
+  owner: codedreamz    #github用户名
+  admin: codesdreamz
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
