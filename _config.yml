@@ -1,13 +1,13 @@
 # Site settings
-title: CodeSJobs Blog
-SEOTitle: 黄梦泽的博客 | CodeSJobs Blog
+title: CodeDream Blog
+SEOTitle: 黄梦泽的博客 | CodeDream Blog
 header-img: img/mfs.jpg
 email: 2927993030@qq.com
 description: "Share and share"
-keyword: "CodeSJobs, CodeSJobs Blog, 黄梦泽的博客, CodeSJobs, 黄梦泽, codejobs,codesjobs"
-url: "https://codesjobs.github.io"          # your host, for absolute URL
+keyword: "Code Dream, Code Dream Blog, 黄梦泽的博客, CodeDream, 黄梦泽, codedream,codesjobs"
+url: "http://codedream.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/codesjobs/codesjobs.github.io.git" # you code repository
+github_repo: "https://github.com/codedreamz/codedreamz.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/CodeDream.png   # use absolute URL, seeing it's used in bot
 RSS: false
 # weibo_username:     
 # zhihu_username:     
-github_username:    codesjobs
+github_username:    codedreamz
 # facebook_username:  
 # jianshu_username:   
 #twitter_username:   
@@ -65,8 +65,8 @@ gitalk:
   clientID: 11df9618c3797d7d6af7                          #生成的clientID
   clientSecret: ecf479faf19c2d15b08ca0867d297b640edf8ba0    #生成的clientSecret
   repo: codesjobs.github.io    #仓库名称
-  owner: codesjobs    #github用户名
-  admin: codesjobs
+  owner: codedream    #github用户名
+  admin: codesdream
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
