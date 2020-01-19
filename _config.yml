@@ -12,7 +12,7 @@ github_repo: "https://github.com/codesjobs/codesjobs.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "兰生幽谷，不为莫服而不芳"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/CodeDream.png   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -110,5 +110,11 @@ friends: [
     },{
         title: "大师传奇",
         href: "https://codesjobs.github.io/news"
+    },{
+        title:"DOSU Community--deepin爱好者的社区"
+        href:"http://deepinos.org/"
+    }，{
+        title:"星橙科技实验室"
+        href:"xckjsys.com"
     }
 ]
