@@ -1,4 +1,4 @@
-# codesjobs.github.io
+# codedreamz.github.io
 
 一位初二的学生。
 
@@ -7,3 +7,5 @@
 欢迎提建议。
 
 推荐[Alexander-huang](https://github.com/anexander-huang)
+
+# Code Our Dreams！ :pill:
