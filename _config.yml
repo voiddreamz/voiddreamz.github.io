@@ -1,13 +1,13 @@
 # Site settings
-title: Code DreamZ Blog
-SEOTitle: 黄梦泽的博客 | Code DreamZ Blog
-header-img: img/tyg.jpg
+title: Void DreamZ Blog
+SEOTitle: 黄梦泽的博客 | Void DreamZ Blog
+header-img: img/mfs.jpg
 email: 18349828158@163.com
 description: "Share and share"
-keyword: "Code DreamZ, Code DreamZ Blog, 黄梦泽的博客, CodeDreamZ, 黄梦泽, codedreamz,codesjobs"
-url: "http://codedreamz.github.io"          # your host, for absolute URL
+keyword: "Void DreamZ, Void DreamZ Blog, 黄梦泽的博客, VoidDreamZ, 黄梦泽"
+url: "http://voiddreamz.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/codedreamz/codedreamz.github.io.git" # you code repository
+github_repo: "https://github.com/voiddreamz/voiddreamz.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 11df9618c3797d7d6af7                          #生成的clientID
   clientSecret: ecf479faf19c2d15b08ca0867d297b640edf8ba0    #生成的clientSecret
-  repo: codedreamz.github.io    #仓库名称
-  owner: codedreamz    #github用户名
-  admin: codesdreamz
+  repo: voiddreamz.github.io    #仓库名称
+  owner: voiddreamz    #github用户名
+  admin: voidsdreamz
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -109,6 +109,6 @@ friends: [
         href: "https://litebyte.coding.me/"
     },{
         title: "大师传奇",
-        href: "https://codedreamz.github.io/masterjia"
+        href: "https://voiddreamz.github.io/masterjia"
     }
 ]
