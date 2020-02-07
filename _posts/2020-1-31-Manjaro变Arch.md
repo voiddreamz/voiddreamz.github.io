@@ -15,7 +15,7 @@ tags:								#标签
 
 本文的原作者是[Alex](https://alexander-huang.github.io)，~~经授权后Ctrl + C~~
 
-原文地址：[传送门]([https://alexander-huang.github.io/2019/08/16/记一次manjaro变arch的奇妙经历))]
+原文地址：[传送门](https://alexander-huang.github.io/2019/08/16/记一次manjaro变arch的奇妙经历)
 
 经本人测试：
 
