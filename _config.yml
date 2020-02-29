@@ -3,9 +3,9 @@ title: Void DreamZ Blog
 SEOTitle: 黄梦泽的博客 | Void DreamZ Blog
 header-img: img/mfs.jpg
 email: 18349828158@163.com
-description: "Share and share"
+description: "万物皆虚，万事皆允"
 keyword: "Void DreamZ, Void DreamZ Blog, 黄梦泽的博客, VoidDreamZ, 黄梦泽"
-url: "http://voiddreamz.github.io"          # your host, for absolute URL
+url: "http://voiddreamz.ml"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/voiddreamz/voiddreamz.github.io.git" # you code repository
 
@@ -18,12 +18,12 @@ sidebar-avatar: /img/voiddreamz.png   # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-# weibo_username:     
+weibo_username:  VoidDreamZ    
 # zhihu_username:     
-github_username:    codedreamz
+github_username:    voiddreamz
 # facebook_username:  
 # jianshu_username:   
-#twitter_username:   
+# twitter_username:   
 
 
 
@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 7ac6d355eef2dcdfc0d2eb73133962e19e22bf9a    #生成的clientSecret
   repo: voiddreamz.github.io    #仓库名称
   owner: voiddreamz    #github用户名
-  admin: voidsdreamz
+  admin: voiddreamz
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -107,9 +107,6 @@ friends: [
     },{
         title: "John's Blog",
         href: "https://litebyte.coding.me/"
-    },{
-        title: "大师传奇",
-        href: "https://voiddreamz.github.io/masterjia"
     },{
         title: "Hongyu Xu’s Blog",
         href: "http://139.196.169.33/"
