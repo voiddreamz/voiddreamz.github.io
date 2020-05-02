@@ -62,9 +62,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ab65ab85da436b167752                          #生成的clientID
-  clientSecret: 7ac6d355eef2dcdfc0d2eb73133962e19e22bf9a    #生成的clientSecret
-  repo: voiddreamz.github.io    #仓库名称
+  clientID: 96633ccaa2f6d5309f20                          #生成的clientID
+  clientSecret: 96633ccaa2f6d5309f20    #生成的clientSecret
+  repo: bloggittalk    #仓库名称
   owner: voiddreamz    #github用户名
   admin: voiddreamz
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
