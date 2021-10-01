@@ -101,7 +101,7 @@ service-worker: true
 friends: [
     {
         title: "Alexander-huang",
-        href: "https://alexander-huang.github.io"
+        href: "http://alex.coal.pub"
     },{
         title: "QINGDKJ",
         href: "https://qingdkj.xyz"
