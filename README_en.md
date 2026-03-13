@@ -187,6 +187,10 @@ After understanding the web page structure and how to write, you can replace the
 3. **Generate PDFs**: If the filename contains `PDF` (e.g., `CV-PDF.typ`), the build script will automatically compile it into a PDF file, and you can add links in the web page pointing to that PDF.
 4. **Deploy Website**: Configure Pages in your GitHub repository, push the modified content to GitHub, and GitHub Actions will automatically build, deploy, and update the website. For details, see the [Wiki page](https://github.com/Yousa-Mirage/Tufted-Blog-Template/wiki/GitHub-Pages-%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99).
 
+### 5. Project Updates
+
+This template provides an `Update` GitHub Actions workflow for importing feature updates from the upstream template repository (which is this repository). For details, please refer to the [Wiki page](https://github.com/Yousa-Mirage/Tufted-Blog-Template/wiki/更新项目).
+
 ## 📂 Project Structure
 
 ```plaintext

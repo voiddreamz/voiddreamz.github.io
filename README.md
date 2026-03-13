@@ -187,6 +187,10 @@ uv run build.py preview -p 12345
 3. **生成 PDF**：如果文件名中包含 `PDF` (如 `CV-PDF.typ`)，构建脚本会自动将其编译为 PDF 文件，此时你可以在网页中添加链接指向该 PDF。
 4. **部署网站**：在你的 GitHub 仓库中**将 Pages 的 `Build and deployment > Source` 设置为 `GitHub Actions`**，然后将修改后的内容推送到 GitHub，GitHub Actions 会自动构建、部署、更新网站。具体内容可参考 [Wiki 页](https://github.com/Yousa-Mirage/Tufted-Blog-Template/wiki/GitHub-Pages-%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99)。
 
+### 5. 项目更新
+
+本模板提供一个 `Update` GitHub Actions 工作流，用于从上游模板仓库（也就是本仓库）导入功能更新，具体内容请参考 [Wiki 页](https://github.com/Yousa-Mirage/Tufted-Blog-Template/wiki/更新项目)。
+
 ## 📂 项目结构
 
 ```plaintext
