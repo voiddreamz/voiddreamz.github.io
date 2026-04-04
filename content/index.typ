@@ -1,4 +1,4 @@
-#import "../config.typ": template
+#import "../config.typ": template, tufted
 #show: template
 
 = About VoidDreamZ

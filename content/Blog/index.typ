@@ -1,4 +1,4 @@
-#import "../index.typ": template
+#import "../index.typ": template, tufted
 #show: template.with(
   title: "Blog",
   description: "Articles and thoughts",
