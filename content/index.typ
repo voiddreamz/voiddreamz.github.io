@@ -18,19 +18,17 @@
 
 == Hey! 👋
 
-Hey，我是 Void DreamZ，一名普通的科技爱好者兼中学生。
-
-也是酷安基友一枚。酷安用户名：生来彷徨的人
+Hey，我是 Void DreamZ，一名热爱物理的物理本科生。
 
 == Who I Am
 
-我热爱技术，对编程、系统和开源充满热情。这个博客记录了我的学习历程和技术思考。
+我热爱技术，对编程和开源以及物理的世界充满热情。这个博客记录了我的学习历程和技术思考。
 
 == This Blog
 
 这个博客由 Typst 和 #link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted Blog Template] 驱动。
 
-你可以在 #link("/Blog/")[Blog] 中找到我的文章，在 #link("/CV/")[CV] 中了解我的履历，在 #link("/Docs/")[Docs] 中查看更多资源。
+你可以在 #link("/Blog/")[Blog] 中找到我的文章，在 #link("/CV/")[CV] 中了解我的履历，在 #link("/Docs/")[Docs] 中查看更多资源。（目前还在完善中）
 
 == Stay Hungry, Stay Foolish
 

@@ -7,8 +7,4 @@
   image-path: "/assets/img/timg.jpg",
 )
 
-#import "@preview/cmarker:0.1.8"
-#import "@preview/mitex:0.2.6": *
-#let md = read("post.md")
-#let scope = (:)
-#cmarker.render(md, math: mitex, scope: scope)
+#include "content.typ"

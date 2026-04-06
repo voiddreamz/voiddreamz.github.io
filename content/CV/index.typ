@@ -1,17 +1,17 @@
 #import "../index.typ": template, tufted
 #show: template.with(
-  title: "Edward R. Tufte",
-  description: "CV of Edward R. Tufte",
-  lang: "en"
+  title: "Void DreamZ ",
+  description: "CV of Void DreamZ",
+  lang: "cn"
 )
 #import "@preview/citegeist:0.2.0": load-bibliography
 
 = Edward R. Tufte
 
 #tufted.margin-note[
-  Statistician, Artist, and Professor Emeritus \
-  Website: #link("https://www.edwardtufte.com")[edwardtufte.com] \
-  Email: #link("mailto:noreply@edwardtufte.com", "noreply@edwardtufte.com")
+  A gratitude student \
+  Website: #link("https://voidreamz.github,io")[voidreamz.github,io] \
+  Email: #link("mailto:voiddreamz@163.com", "voiddreamz@163.com")
 ]
 
 #link("CV-PDF.pdf")[[PDF version is available! Click me!]]\
